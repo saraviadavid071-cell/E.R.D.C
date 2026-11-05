@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ERDC.Application/ERDC.Application.csproj" />
+  <Project Path="ERDC.Domain/ERDC.Domain.csproj" />
+  <Project Path="ERDC.Infrastructure/ERDC.Infrastructure.csproj" />
+  <Project Path="ERDC.Presentation/ERDC.Presentation.csproj" />
+</Solution>

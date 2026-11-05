@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "ERDC.Presentation.Controllers.PedidoController",
+    "Method": "CargarStockManual",
+    "RelativePath": "api/admin/inventario/{idProducto}/cargar-stock",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProducto",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "unidades",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERDC.Presentation.Controllers.PedidoController",
+    "Method": "GuardarNuevoInsumo",
+    "RelativePath": "api/admin/productos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ERDC.Application.DTOs.NuevoProductoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERDC.Presentation.Controllers.PedidoController",
+    "Method": "ObtenerCatalogo",
+    "RelativePath": "api/catalogo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoria",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "buscar",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERDC.Presentation.Controllers.PedidoController",
+    "Method": "ValidarCupon",
+    "RelativePath": "api/cupones/validar/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERDC.Presentation.Controllers.PedidoController",
+    "Method": "DescargarCotizacionPDF",
+    "RelativePath": "api/Pedido/{idPedido}/cotizacion-pdf",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPedido",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERDC.Presentation.Controllers.PedidoController",
+    "Method": "DescargarCotizacionPDF",
+    "RelativePath": "api/Pedido/{idPedido}/cotizacion-pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPedido",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERDC.Presentation.Controllers.PedidoController",
+    "Method": "ProcesarCompra",
+    "RelativePath": "api/Pedido/procesar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidoDto",
+        "Type": "ERDC.Application.DTOs.CrearPedidoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

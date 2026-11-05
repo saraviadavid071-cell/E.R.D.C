@@ -1,0 +1,12 @@
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\bin\Debug\net10.0\ERDC.Domain.deps.json
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\bin\Debug\net10.0\ERDC.Domain.dll
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\bin\Debug\net10.0\ERDC.Domain.pdb
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\ERDC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\ERDC.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\ERDC.Domain.AssemblyInfo.cs
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\ERDC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\ERDC.Domain.dll
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\refint\ERDC.Domain.dll
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\ERDC.Domain.pdb
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\ref\ERDC.Domain.dll
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Domain\obj\Debug\net10.0\ERDC.Dom.22E59F33.Up2Date

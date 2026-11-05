@@ -1,0 +1,15 @@
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\bin\Debug\net10.0\ERDC.Application.deps.json
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\bin\Debug\net10.0\ERDC.Application.dll
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\bin\Debug\net10.0\ERDC.Application.pdb
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\bin\Debug\net10.0\ERDC.Domain.dll
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\bin\Debug\net10.0\ERDC.Domain.pdb
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ERDC.Application.csproj.AssemblyReference.cache
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ERDC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ERDC.Application.AssemblyInfoInputs.cache
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ERDC.Application.AssemblyInfo.cs
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ERDC.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ERDC.App.960586C8.Up2Date
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ERDC.Application.dll
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\refint\ERDC.Application.dll
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ERDC.Application.pdb
+C:\Users\DELL LATITUDE\Desktop\ERDC\ERDC.Application\obj\Debug\net10.0\ref\ERDC.Application.dll
